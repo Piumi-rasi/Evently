@@ -42,7 +42,7 @@ Additional Tools
 - Node.js (for React development)
 
 Screeshots
-<img width="853" height="389" alt="Evently" src="https://github.com/user-attachments/assets/8d8e5abc-fa7b-4cef-ae3f-41918c7461f3" />
+#Home Page <img width="853" height="389" alt="Evently" src="https://github.com/user-attachments/assets/157b276a-eca8-41d8-8f8d-d02c2c2b091a" />
 <img width="787" height="387" alt="Guest Management Page" src="https://github.com/user-attachments/assets/2178704b-781a-498b-a4e5-7c9a8a4cf4a7" />
 <img width="845" height="387" alt="Task Management Page" src="https://github.com/user-attachments/assets/90a51a6c-a5d5-4625-ae61-7da06377bbb1" />
 <img width="824" height="385" alt="Budget Management Page" src="https://github.com/user-attachments/assets/a62f3356-9a68-4c34-a3a2-e83094097f70" />
