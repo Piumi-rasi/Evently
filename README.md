@@ -48,6 +48,3 @@ Screeshots
 <img width="824" height="385" alt="Budget Management Page" src="https://github.com/user-attachments/assets/a62f3356-9a68-4c34-a3a2-e83094097f70" />
 <img width="808" height="387" alt="Events Management Page" src="https://github.com/user-attachments/assets/e76e9b4e-b882-424b-a10a-4279c1fa1d01" />
 
-ash
-git clone https://github.com/Piumi-rasi/school_management_system.git
-cd school-management-system-master
