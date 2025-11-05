@@ -42,9 +42,10 @@ Additional Tools
 - Node.js (for React development)
 
 Screeshots
-#Home Page <img width="853" height="389" alt="Evently" src="https://github.com/user-attachments/assets/157b276a-eca8-41d8-8f8d-d02c2c2b091a" />
-<img width="787" height="387" alt="Guest Management Page" src="https://github.com/user-attachments/assets/2178704b-781a-498b-a4e5-7c9a8a4cf4a7" />
-<img width="845" height="387" alt="Task Management Page" src="https://github.com/user-attachments/assets/90a51a6c-a5d5-4625-ae61-7da06377bbb1" />
-<img width="824" height="385" alt="Budget Management Page" src="https://github.com/user-attachments/assets/a62f3356-9a68-4c34-a3a2-e83094097f70" />
-<img width="808" height="387" alt="Events Management Page" src="https://github.com/user-attachments/assets/e76e9b4e-b882-424b-a10a-4279c1fa1d01" />
+#Evently <img width="853" height="389" alt="Evently" src="https://github.com/user-attachments/assets/157b276a-eca8-41d8-8f8d-d02c2c2b091a" />
+#Guest Management Page<img width="787" height="387" alt="Guest Management Page" src="https://github.com/user-attachments/assets/2178704b-781a-498b-a4e5-7c9a8a4cf4a7" />
+#Task Management Page<img width="845" height="387" alt="Task Management Page" src="https://github.com/user-attachments/assets/90a51a6c-a5d5-4625-ae61-7da06377bbb1" />
+#Budget Management Page<img width="824" height="385" alt="Budget Management Page" src="https://github.com/user-attachments/assets/a62f3356-9a68-4c34-a3a2-e83094097f70" />
+#Events Management Page<img width="808" height="387" alt="Events Management Page" src="https://github.com/user-attachments/assets/e76e9b4e-b882-424b-a10a-4279c1fa1d01" />
+#Landing Page<img width="809" height="386" alt="Landing Page" src="https://github.com/user-attachments/assets/7531b803-e21e-44a3-af1c-a525344cf79c" />
 
